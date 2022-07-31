@@ -32,6 +32,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: hooong2/project:49
+        image: hooong2/project:50
         ports:
           - containerPort: 5000
