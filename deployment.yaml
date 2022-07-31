@@ -32,6 +32,6 @@ spec:
     spec:
       containers:
       - name: flask
-        image: hooong2/project:{jenkins build number}
+        image: hooong2/project:{DOCKERTAG}
         ports:
           - containerPort: 5000
