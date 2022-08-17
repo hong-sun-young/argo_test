@@ -18,7 +18,7 @@ spec:
         app: flaskdemo
     spec:
       containers:
-      - image: hooong2/project:23
+      - image: hooong2/project:24
         name: flaskdemo
         resources: {}
 status: {}
